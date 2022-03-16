@@ -1,0 +1,28 @@
+body{
+    min-width: 300px;
+}
+
+h1 {
+    font-family: neue-haas-grotesk-display,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    font-family: neue-haas-grotesk-display,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h3 {
+    font-family: neue-haas-grotesk-display,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+h4 {
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
